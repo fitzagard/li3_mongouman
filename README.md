@@ -14,7 +14,7 @@ Inspired by li3_usermanager li3_mongouman's goal is to provide the same function
   * Editing users (email, password, about...)
 * Session Control via MongoDB
 
-## Instalation
+## Instalation - Warning: Proejct Pre-Alpha Do not Use Yet
 
 Checkout **li3_mongouman** to either of your library directories:
 
